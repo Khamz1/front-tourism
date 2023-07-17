@@ -46,7 +46,7 @@ function App() {
       
       <div className={styles.background}></div>
 
-      {/* <Cards/> */}
+      <Cards/>
       
     
 
